@@ -1,0 +1,23 @@
+{
+  "name": "redis-test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackboberg/redis-test.git"
+  },
+  "keywords": [],
+  "author": "Jack Boberg <hello@jackboberg.info> (https://jackboberg.info/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jackboberg/redis-test/issues"
+  },
+  "homepage": "https://github.com/jackboberg/redis-test#readme",
+  "dependencies": {
+    "redis": "^3.1.2"
+  }
+}
